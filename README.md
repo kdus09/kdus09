@@ -101,8 +101,8 @@ Font: JetBrains Mono
 
 <p align="center">
   <a href="https://khoidev.io.vn"><img src="https://img.shields.io/badge/Website-KhoiDev.io.vn-00fff9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://t.me/KhoiDz"><img src="https://img.shields.io/badge/Telegram-@KhoiDz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://instagram.com/khoi.dev"><img src="https://img.shields.io/badge/Instagram-@khoi.dev-ff00c8?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://t.me/coder_009"><img src="https://img.shields.io/badge/Telegram-@coder_009-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://instagram.com/lt.khoi_09"><img src="https://img.shields.io/badge/Instagram-@lt.khoi_09-ff00c8?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
